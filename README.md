@@ -18,6 +18,7 @@ Currently diving deep into the world of data, code, and cats 🐱📊⚙️
 
 `Python` `SQL` `Scikit-learn` `PyTorch` `Pandas` `Jupyter`  
 `Tableau` `Git` 
+
 ---
 
 ### 🚀 Fun Projects (so far):
