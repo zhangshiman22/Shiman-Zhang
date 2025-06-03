@@ -16,8 +16,7 @@ Currently diving deep into the world of data, code, and cats 🐱📊⚙️
 
 ### 🛠️ Tools & Skills
 
-`Python` `SQL` `Scikit-learn` `PyTorch` `Pandas` `Jupyter`  
-`Tableau` `Git` 
+`Python` `SQL` `Scikit-learn` `PyTorch` `Pandas` `Jupyter` `Tableau` `Git` 
 
 ---
 
