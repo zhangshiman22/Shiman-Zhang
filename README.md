@@ -26,6 +26,9 @@ Currently diving deep into the world of data, code, and cats 🐱📊⚙️
 - 🐦 Airline Sentiment Analyzer – Twitter + NLP = ✈️💬📉
 - 🐶🐱 Cat vs Dog Classifier – Because... internet
 - 🏠 Iowa Housing Price Model – Data meets real estate
+- 🎬 IMDb Movie Ratings Prediction
+- 🏠 New York City Housing Price Prediction
+- 🏨 Hotel Review Sentiment Analysis
 
 (*More cool stuff coming soon! 🚧*)
 
